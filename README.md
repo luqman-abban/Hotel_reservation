@@ -32,7 +32,7 @@ The dataset used in this project is `Hotel_Reservations_Encoded.xlsx`, which inc
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Install the required libraries using `pip install -r requirements.txt`.
+2. Install the required libraries
 3. Open the Jupyter Notebook and execute the cells to see the analysis and results.
 
 ## Results
