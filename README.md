@@ -1,4 +1,4 @@
-# Hotel_reservation
+
 # Hotel Booking Cancellation Prediction
 
 This repository contains a Jupyter Notebook that explores and predicts hotel booking cancellations. The project utilizes a dataset of hotel reservations and applies machine learning techniques to predict whether a booking will be canceled.
